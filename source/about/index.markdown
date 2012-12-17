@@ -6,15 +6,17 @@ comments: false
 sharing: false
 footer: false
 ---
-Crawljax is an open source Java tool for automatically crawling and testing modern (Ajax) web applications.
+<img src="images/crawljax-logo.jpg" width="150px" style="float:left;margin:0 10px 0 0;">Crawljax is an open source Java tool for automatically crawling and testing modern web applications.
+Crawljax can explore any JavaScript-based Ajax web application through an even-driven dynamic crawling engine. It automatically creates a state-flow graph of the dynamic DOM states and the event-based transitions between them. This inferred state-flow graph forms a very powerful vehicle for automating many types of web analysis and testing techniques:
 
-Crawljax can crawl any Ajax-based web application by firing events and filling in form data. It creates a state-flow graph of the dynamic DOM states and the transitions between them. This inferred state-flow graph forms a very powerful base for many types of automated web testing:
-
-* Invariant-based testing
-* Regression testing
+* Test generation 
+* Invariant-based testing 
 * Non functional testing (Accessibility, validation, I18n, security, …)
 * Detecting broken links/images/tooltips
-* And via its plugin architecture many more…
+* Detecting unused code, and much more...
+
+Crawljax can easily be extended through its easy-to-use <a href="https://github.com/crawljax/crawljax/wiki/Writing-a-plugin">plugin architecture</a>.
+
 
 ## History
 The idea of crawling Ajax-based web applications started in 2007 as part of the PhD research of [Ali Mesbah](http://ece.ubc.ca/~amesbah/) working with [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/).
