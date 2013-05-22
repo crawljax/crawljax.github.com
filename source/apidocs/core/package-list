@@ -1,0 +1,16 @@
+com.crawljax.browser
+com.crawljax.condition
+com.crawljax.condition.browserwaiter
+com.crawljax.condition.crawlcondition
+com.crawljax.condition.eventablecondition
+com.crawljax.condition.invariant
+com.crawljax.core
+com.crawljax.core.configuration
+com.crawljax.core.exception
+com.crawljax.core.plugin
+com.crawljax.core.state
+com.crawljax.di
+com.crawljax.forms
+com.crawljax.oraclecomparator
+com.crawljax.oraclecomparator.comparators
+com.crawljax.util

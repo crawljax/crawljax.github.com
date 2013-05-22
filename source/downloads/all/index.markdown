@@ -5,6 +5,11 @@ comments: false
 sharing: false
 footer: false
 ---
+#### Version 3.0:
+* [Binaries](/downloads/crawljax-3.0.zip) *([sha checksum](/downloads/crawljax-3.0.zip.sha))*
+* [Sources](https://github.com/crawljax/crawljax/archive/crawljax-3.0.zip)
+* [Changelog](https://github.com/crawljax/crawljax/blob/master/CHANGELOG.md)
+* 
 #### Version 2.2:
 * [Binaries](http://crawljax.com/downloads/crawljax-2.2.zip) *([sha checksum](http://crawljax.com/downloads/crawljax-2.2.zip.sha))*
 * [Sources](https://github.com/crawljax/crawljax/archive/crawljax-2.2.zip)
